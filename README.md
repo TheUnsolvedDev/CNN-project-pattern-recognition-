@@ -9,8 +9,11 @@ Install the neccessary libraries and modules
  - Activate your virtualenv and run the following command in your terminal(LINUX) or cmd(WINDOWS)
  
    $ pip install numpy
+   
    $ pip install matplotlib
+   
    $ pip install tensorflow
+   
    $ pip install pandas
 
 -Run the training_and_testing.py file
